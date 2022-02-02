@@ -1,0 +1,5 @@
+#Elephants
+Elephants have the following characteristics:
+- Large size
+- Long trunk
+- Cute
